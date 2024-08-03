@@ -3,4 +3,6 @@
    - MobileNet
      - accuracy: 0.8944
      - val_accuracy: 0.8602
-   
+   - MobileNetV2
+     - accuracy: 0.9844
+     - val_accuracy: 0.9702
